@@ -1,11 +1,11 @@
 **ShareWidget** renders social sites buttons to share url.
 
 ### Available social services
-1. VKontake (http://vk.com) - ![vk.com](https://raw.github.com/wapmorgan/ShareWidget/master/assets/vkontakte.png) 
-2. Facebook (http://facebook.com) - ![facebook.com](https://raw.github.com/wapmorgan/ShareWidget/master/assets/facebook.png) 
-3. Mail.ru (http://mail.ru) - ![mail.ru](https://raw.github.com/wapmorgan/ShareWidget/master/assets/mailru.png) 
-4. Odnoklassniki (http://odnoklassniki.ru) - ![odnoklassniki.ru](https://raw.github.com/wapmorgan/ShareWidget/master/assets/odnoklassniki.png) 
-5. Twitter (http://twitter.com) - ![twitter.com](https://raw.github.com/wapmorgan/ShareWidget/master/assets/twitter.png) 
+1. VKontake (http://vk.com)
+2. Facebook (http://facebook.com)
+3. Mail.ru (http://mail.ru)
+4. Odnoklassniki (http://odnoklassniki.ru)
+5. Twitter (http://twitter.com)
 
 ### Options
 * **services** - list of buttons to render. Default: 
